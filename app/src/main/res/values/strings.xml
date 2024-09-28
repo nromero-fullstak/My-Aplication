@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Resident Registration</string>
+    <string name="nav_header_subtitle">ADMINISTRACION DE PROPIEDAD HORIZONTAL</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Ingresar</string>
+    <string name="menu_slideshow">Registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="salir">salir</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="enter_text">Enter text</string>
+    <string name="resident_registration_administracion_de_propiedad_horizontal">Resident Registration ADMINISTRACION DE PROPIEDAD HORIZONTAL</string>
+    <string name="todo">TODO</string>
+    <string name="administrador">Administrador</string>
+    <string name="usuario">Usuario</string>
+    <string name="volver">Volver</string>
+    <string name="enviar">Enviar</string>
+    <string name="inicio">Inicio</string>
+    <string name="gallery">Gallery</string>
+    <string name="escriba_su_nombre"> Nombres</string>
+    <string name="escriba_su_apellido"> Apellidos</string>
+    <string name="escriba_su_contraseña"> Contraseña</string>
+    <string name="escriba_su_usuario"> Usuario</string>
+
+</resources>
